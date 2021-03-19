@@ -1,0 +1,3 @@
+This software was developed by combined efforts of Saugat Niraula and Saurav Neupane
+We have tried to create an idea music player that works on based off of genuine emotion shown by the individual and 
+thus make it better for them to experience comforting music for there better amusement and pleasure 
